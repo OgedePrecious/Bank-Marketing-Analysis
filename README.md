@@ -169,8 +169,8 @@ Based on the analysis, the following actions are recommended:
 
 ## Project Files
 
-- `bank_marketing_analysis.ipynb` — Python analysis, exploratory analysis, visualizations, and predictive modelling.
-- `Bank_Marketing_Term_Deposit_Case_Study.pdf` — Detailed business case study, findings, insights, and recommendations.
+- 📓 [View Python Analysis Notebook](https://colab.research.google.com/drive/1OKMyP0M-Jr795bQDLGDejOxKrQ6W5Qo-?usp=sharing)
+- 📄 `Bank_Marketing_Term_Deposit_Case_Study.pdf` — Detailed business case study, findings, insights, and recommendations.
 
 ---
 
