@@ -170,7 +170,7 @@ Based on the analysis, the following actions are recommended:
 ## Project Files
 
 - 📓 [View Python Analysis Notebook](https://colab.research.google.com/drive/1OKMyP0M-Jr795bQDLGDejOxKrQ6W5Qo-?usp=sharing)
-- 📄 `Bank_Marketing_Term_Deposit_Case_Study.pdf` — Detailed business case study, findings, insights, and recommendations.
+- 📄 [View Full Business Case Study](Bank_Marketing_Term_Deposit_Case_Study.pdf)
 
 ---
 
